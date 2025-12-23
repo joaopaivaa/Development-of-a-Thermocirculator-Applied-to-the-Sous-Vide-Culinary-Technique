@@ -1,1 +1,8 @@
-# Development-of-a-Thermocirculator-Applied-to-the-Sous-Vide-Culinary-Technique
+## Development of a Thermocirculator Applied to the Sous Vide Culinary Technique
+
+Paper in english published on "Revista Cereus" from Brazil (https://www.ojs.unirg.edu.br/index.php/1/article/view/5994)
+
+Developed in 2019-2023 in collaboration with Erinaldo Nascimento, MSc and Camila Miranda, PhD as part of my electrical engineering BSc final paper and undergraduate research.
+
+Abstract:
+This paper addresses the theory, design, and execution of a thermocirculator, developing its electronic circuits, printed circuit boards (PCBs), plastic structure, and equipment assembling. The developed thermocirculator is based on 3 previous prototypes, with the first one being created in 2019. The ESP32 microcontroller was used as the basis for the electronic circuits. MicroPython was chosen as the programming language, and a web server was developed to connect the user and the equipment via Wi-Fi, allowing monitoring of the equipment from anywhere. An On-Off controller was implemented to keep the water temperature constant. The plastic structure was made of ABS plastic, and manufactured by 3D printing, with lateral dimensions of 7 x 7 cm and 18.5 cm of height, divided into upper portion, medial cover, lower portion, and lower covers. After the equipment was assembled, tests were made to verify its operation, which consisted of preparing foods such as a NY strip steak at 55 ºC, pork ribs at 70 ºC, and eggs at different temperatures. The developed thermocirculator performs its function excellently and can prepare food like a commercial product, fulfilling the objectives established by this paper.
